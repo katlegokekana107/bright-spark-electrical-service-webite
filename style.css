@@ -1,0 +1,60 @@
+header {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Website heading */
+header h1 {
+    color: yellow;
+    font-family: Arial, sans-serif;
+}
+
+/* Navigation */
+nav {
+    background-color:  gray;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Navigation links */
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+/* Link hover */
+nav a:hover {
+    color: yellow;
+}
+
+/* Main content */
+main {
+    background-color: white;
+    padding: 20px;
+    color: navy;
+}
+
+/* Section headings */
+h2 {
+    color: navy;
+    border-bottom: 2px solid yellow;
+}
+
+/* Button */
+.button {
+    background-color: white;
+    color: none;
+    padding: 10px;
+    text-decoration: blue;
+}
+
+/* Footer */
+footer {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
